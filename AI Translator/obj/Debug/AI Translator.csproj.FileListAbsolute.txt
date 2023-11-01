@@ -1,0 +1,91 @@
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\AI Translator.exe.config
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\AI Translator.exe
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\AI Translator.pdb
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.AssemblyReference.cache
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI_Translator.mainForm.resources
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI_Translator.Properties.Resources.resources
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.GenerateResource.cache
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.CoreCompileInputs.cache
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI Translator.exe
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI Translator.pdb
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.AssemblyReference.cache
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI_Translator.mainForm.resources
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI_Translator.Properties.Resources.resources
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.GenerateResource.cache
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI Translator.exe
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI Translator.pdb
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\AI Translator.exe.config
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\AI Translator.exe
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\AI Translator.pdb
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\OpenAI_API.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Buffers.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Memory.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\OpenAI_API.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Buffers.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Memory.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.CopyComplete
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Http.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Options.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Newtonsoft.Json.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\OpenAI_API.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Buffers.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Memory.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Numerics.Vectors.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Http.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Options.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\Newtonsoft.Json.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\OpenAI_API.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Buffers.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Memory.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Numerics.Vectors.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\BackUp\GoogleD\My Drive\osobiste\WSB\sem 5\PBL - Sherrif's Hell\AI Translator\AI Translator\obj\Debug\AI Translator.csproj.CopyComplete
+C:\Users\Rafał\Desktop\AI Translator\AI Translator\obj\Debug\AI_Translator.OnScreenKeyboard.resources
